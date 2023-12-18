@@ -19,8 +19,8 @@ This module takes the game engine's textual feedback and converts it into spoken
 ### Text to Image (SDXL or SDXL-turbo)
 This module generates images based on the game's narrative context.
 
-### GPT3 Integration
-This module uses GPT3 for dynamic narration and interaction, creating an immersive and ever-changing game experience.
+### LLM Integration
+This module uses GPT4/LlaMMA2 for dynamic narration and interaction, creating an immersive and ever-changing game experience.
 
 ## Workflow
 The typical workflow of Zargonian is as follows:
