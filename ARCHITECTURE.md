@@ -2,7 +2,7 @@
 
 ## Overview
 
-Zargonian's architecture comprises several key components, including a text interface for command input, a game engine for managing game state, and multiple layers for handling Speech to Text, Text to Speech, and Text to Image functionalities.
+TaleForge's architecture comprises several key components, including a text interface for command input, a game engine for managing game state, and multiple layers for handling Speech to Text, Text to Speech, and Text to Image functionalities.
 
 ### Text Interface
 This is the user's primary interaction point with the game. They input commands (e.g., 'go north', 'talk to character') and receive feedback (e.g., 'you see a castle', 'the character says hello').
@@ -23,7 +23,7 @@ This module generates images based on the game's narrative context.
 This module uses GPT4/LlaMMA2 for dynamic narration and interaction, creating an immersive and ever-changing game experience.
 
 ## Workflow
-The typical workflow of Zargonian is as follows:
+The typical workflow of TaleForge is as follows:
 
 1. The user issues a command via text or speech.
 2. The Speech to Text module (if used) converts the spoken command into text.
